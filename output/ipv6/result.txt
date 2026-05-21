@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-19 20:33:07,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-05-21 20:38:26,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -114,3 +114,5 @@ ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
 华视,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv041$订阅源
 TVBS,https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8$订阅源
 TVBS,https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8$订阅源
+TVBS,http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8$订阅源
+TVBS,http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8$订阅源
