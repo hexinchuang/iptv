@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-09 20:29:21,https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
+2026-06-11 21:47:26,https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
@@ -45,11 +45,9 @@ CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=8$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=2$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=3$订阅源
-CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8$订阅源
-CCTV-5+,http://116.128.243.121:9905/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-5+,http://116.128.243.121:9905/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=1$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=2$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=3$订阅源
@@ -147,12 +145,12 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=6$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=7$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV4K$订阅源
-CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$订阅源
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932$订阅源
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85$订阅源
+CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$订阅源
 CCTV-8K,https://iptv.catvod.com/live.php?id=CCTV8K$订阅源
-CCTV-8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$订阅源
 CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8$订阅源
+CCTV-8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$订阅源
 
 📡卫视频道,#genre#
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86$订阅源
@@ -389,7 +387,7 @@ CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8$订阅源
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=e6497fe4c4d40b01fd715a2d181637a5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-陕西卫视,http://192.151.150.154/live/snwshd.m3u8$订阅源
+陕西卫视,http://198.204.228.26/live/snwshd.m3u8$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=1$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=2$订阅源
@@ -410,9 +408,9 @@ CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8$订阅源
 大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=1$订阅源
 大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=2$订阅源
 大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=3$订阅源
-大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub$订阅源
-大湾区卫视,http://107.150.60.122/live/nfws.m3u8$订阅源
 大湾区卫视,http://198.204.228.26/live/nfws.m3u8$订阅源
+大湾区卫视,http://107.150.60.122/live/nfws.m3u8$订阅源
+大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub$订阅源
 海峡卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86$订阅源
 海峡卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&line=1$订阅源
 海峡卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&line=2$订阅源
@@ -459,10 +457,10 @@ CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8$订阅源
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub$订阅源
 河北都市,http://1.94.31.214/php/hebei.php?id=hbds$订阅源
 沈阳新闻综合,http://120.76.248.139/live/bfgd/4200000059.m3u8$订阅源
-厦门卫视,http://192.151.150.154/live/xmws.m3u8$订阅源
-厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub$订阅源
-厦门卫视,http://107.150.60.122/live/xmws.m3u8$订阅源
 厦门卫视,http://198.204.228.26/live/xmws.m3u8$订阅源
+厦门卫视,http://107.150.60.122/live/xmws.m3u8$订阅源
+厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub$订阅源
+厦门卫视,http://192.151.150.154/live/xmws.m3u8$订阅源
 福建综合,https://live.264788.xyz/channel/fujianzonghe?streamid=6464f306ec4c0acd88d9a698fc2d699e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 广西都市,http://38.75.136.137:98/gslb/dsdqpub/gxds.m3u8?auth=testpub$订阅源
 
